@@ -41,6 +41,18 @@ function CardCarousel() {
                   </div>
               </div>
           </div>
+          <div id='item4' className='carousel-item relative w-full justify-center'>
+              <div className='card w-96 bg-gray-200 shadow-xl'>
+                  <figure><img src='/MERNapp.png' alt='me'></img></figure>
+                  <div className='card-body items-center text-center'>
+                      <h2 className='card-title'>Support Desk App</h2>
+                      <p>In progress MERN stack App, stay tuned!</p>
+                      <div className='card-actions justify-end'>
+                          <button className='btn btn-priamry'>Project Here!</button>
+                      </div>
+                  </div>
+              </div>
+          </div>
       </div>
       <div class="flex justify-center w-full py-2 gap-2">
               <a href="#item1" class="btn btn-xs">1</a>
