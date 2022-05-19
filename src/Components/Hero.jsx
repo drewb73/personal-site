@@ -14,7 +14,7 @@ function Hero() {
          </div>
         </div>
       <h1 className="text-5xl font-bold">Welcome!</h1>
-      <p className="py-6">Hello, My name is Drew Barton I am a Sales Operations Professional in the tech industry. This site is my personal project I am in no way a pro web developer but please enjoy!</p>
+      <p className="py-6">Hello, My name is Drew Barton I am a Sales Operations Analyst in the tech industry. This site is my personal project, I enjoy web development as a hobby specifically using react as a front end framework. Feel free and reach out to me below!</p>
       <a href='https://www.linkedin.com/in/d-barton5/' className="mx-2 btn btn-ghost"><p className='mr-1 text-lg'><FaLinkedin /></p> Linkedin</a>
       <a href='https://github.com/drewb73' className="mx-2 btn btn-ghost"><p className='mr-1 text-lg'><FaGithubSquare /></p> GitHub</a>
     </div>
