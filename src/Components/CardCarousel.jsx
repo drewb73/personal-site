@@ -12,7 +12,7 @@ function CardCarousel() {
                       <h2 className='card-title'>House Marketplace App</h2>
                       <p>Housing Marketplace App built with React and Firebase as the backend database</p>
                       <div className='card-actions justify-end'>
-                          <button className='btn btn-priamry'>Project Here!</button>
+                          <a href='https://github.com/drewb73/house-marketplace' className='btn btn-priamry'>Project Here!</a>
                       </div>
                   </div>
               </div>
@@ -24,7 +24,7 @@ function CardCarousel() {
                       <h2 className='card-title'>Github Search App</h2>
                       <p>Built with React and uses the Github Api to search users</p>
                       <div className='card-actions justify-end'>
-                          <button className='btn btn-priamry'>Project Here!</button>
+                          <a href='https://github.com/drewb73/github-search' className='btn btn-priamry'>Project Here!</a>
                       </div>
                   </div>
               </div>
@@ -36,7 +36,7 @@ function CardCarousel() {
                       <h2 className='card-title'>Personal Site</h2>
                       <p>Built with React, nothing fancy yet but will be improved over time!</p>
                       <div className='card-actions justify-end'>
-                          <button className='btn btn-priamry'>Project Here!</button>
+                          <a href='https://github.com/drewb73/personal-site' className='btn btn-priamry'>Project Here!</a>
                       </div>
                   </div>
               </div>
@@ -48,7 +48,7 @@ function CardCarousel() {
                       <h2 className='card-title'>Support Desk App</h2>
                       <p>In progress MERN stack App, stay tuned!</p>
                       <div className='card-actions justify-end'>
-                          <button className='btn btn-priamry'>Project Here!</button>
+                          <a href='https://github.com/drewb73/support-desk' className='btn btn-priamry'>Project Here!</a>
                       </div>
                   </div>
               </div>
