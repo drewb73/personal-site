@@ -4,7 +4,7 @@ import React from 'react'
 
 function Hero() {
   return (
-  <div className="hero max-h-screen bg-base-100">
+  <div className="hero max-h-screen bg-base-100 mt-10">
     <div className="hero-content text-center">
       <div className="max-w-md">
         <div className="avatar">
