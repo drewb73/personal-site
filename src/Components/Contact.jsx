@@ -18,7 +18,7 @@ function Contact() {
         <form className='w-auto'>
          <input type='text' placeholder='Subject' value={subject} onChange={handleChange} className='input input-bordered input-md mt-3 w-96' />
          <br></br>
-         <textarea placeholder='Message' value={message} onChange={onChange} className='textarea textarea-primary mt-3 w-96 justify-center' ></textarea>
+         <textarea placeholder='Message' value={message} onChange={onChange} className='textarea textarea-bordered mt-3 w-96 justify-center' ></textarea>
          <br></br>
          <a href={`mailto:${data.email}?Subject=${subject}&body=${message}`}><button className='btn btn-primary' type='button'>Send Email</button></a>
         </form>
