@@ -5,7 +5,7 @@ import { FaGithubSquare, FaLinkedin  } from "react-icons/fa";
 
 function Hero() {
   const today = new Date()
-  const date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate()
+  const date = today.getMonth()+1 +'-'+(today.getDate()) + '-' + today.getFullYear()
 
 
   return (
