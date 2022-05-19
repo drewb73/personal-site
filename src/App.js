@@ -1,4 +1,6 @@
 import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
+import { ToastContainer } from 'react-toastify'
+import 'react-toastify/dist/ReactToastify.css'
 import React from "react";
 import Navbar from './Components/Navbar';
 import Footer from "./Components/Footer";
@@ -8,6 +10,7 @@ import Home from './Pages/Home';
 
 function App() {
   return (
+    <>
     <Router>
     <div className='flex flex-col justify-between h-screen'>
     <Navbar />
@@ -26,6 +29,9 @@ function App() {
     <Footer />
   </div>
   </Router>
+
+  <ToastContainer />
+  </>
   )
 }
 
