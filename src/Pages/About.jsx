@@ -8,7 +8,7 @@ function About() {
           <h1 className='text-6xl mb-4'>Drews Personal Site</h1>
           <p className='text-2xl mb-2'>A React Personal App using Tailwinds CSS and daisyUI for styling and UI</p>
           <p className='text-lg text-gray-500'>
-            Version: <span className='text-black'>1.1.0</span>
+            Version: <span className='text-black'>1.2.1</span>
           </p>
           <p className='text-lg text-gray-400'>
         Layout and Design By:
