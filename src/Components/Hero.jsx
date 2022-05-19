@@ -14,7 +14,7 @@ function Hero() {
       <div className="max-w-md">
         <div className="avatar">
          <div className='rounded-full mb-5 shadow-xl border-solid'>
-           <img src="/profilepic.jpg" alt='pic' />
+           <img src="/profilepic.JPG" alt='pic' />
          </div>
         </div>
       <h1 className="text-5xl font-bold">Welcome!</h1>

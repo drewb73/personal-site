@@ -19,7 +19,7 @@ function CardCarousel() {
           </div>
           <div id='item2' className='carousel-item relative w-full justify-center'>
               <div className='card w-96 bg-sky-200 shadow-xl'>
-                  <figure><img src='/githubsearch.png' alt='me'></img></figure>
+                  <figure><img src='/githubsearch.PNG' alt='me'></img></figure>
                   <div className='card-body items-center text-center'>
                       <h2 className='card-title'>Github Search App</h2>
                       <p>Built with React and uses the Github Api to search users</p>
@@ -31,7 +31,7 @@ function CardCarousel() {
           </div>
           <div id='item3' className='carousel-item relative w-full justify-center'>
               <div className='card w-96 bg-sky-200 shadow-xl'>
-                  <figure><img src='/personalsite.png' alt='me'></img></figure>
+                  <figure><img src='/personalsite.PNG' alt='me'></img></figure>
                   <div className='card-body items-center text-center'>
                       <h2 className='card-title'>Personal Site</h2>
                       <p>Built with React, nothing fancy yet but will be improved over time!</p>
@@ -43,7 +43,7 @@ function CardCarousel() {
           </div>
           <div id='item4' className='carousel-item relative w-full justify-center'>
               <div className='card w-96 bg-sky-200 shadow-xl'>
-                  <figure><img src='/MERNapp.png' alt='me'></img></figure>
+                  <figure><img src='/MERNapp.PNG' alt='me'></img></figure>
                   <div className='card-body items-center text-center'>
                       <h2 className='card-title'>Support Desk App</h2>
                       <p>In progress MERN stack App, stay tuned!</p>
