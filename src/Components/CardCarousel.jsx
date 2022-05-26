@@ -24,7 +24,7 @@ function CardCarousel() {
                       <h2 className='card-title'>Github Search App</h2>
                       <p>Built with React and uses the Github Api to search users</p>
                       <div className='card-actions justify-end'>
-                          <a href='https://github.com/drewb73/github-search' className='btn btn-primary'>Project Here!</a>
+                          <a href='https://github.com/drewb73/github-finduser-app' className='btn btn-primary'>Project Here!</a>
                       </div>
                   </div>
               </div>
@@ -48,7 +48,7 @@ function CardCarousel() {
                       <h2 className='card-title'>Support Desk App</h2>
                       <p>In progress MERN stack App, stay tuned!</p>
                       <div className='card-actions justify-end'>
-                          <a href='https://github.com/drewb73/support-desk' className='btn btn-primary'>Project Here!</a>
+                          <a href='https://github.com/drewb73/blog' className='btn btn-primary'>Project Here!</a>
                       </div>
                   </div>
               </div>
