@@ -6,6 +6,7 @@ import Navbar from './Components/Navbar';
 import Footer from "./Components/Footer";
 import About from './Pages/About';
 import Home from './Pages/Home';
+import ChronoResume from './Components/ChronoResume';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
       <Routes>
         <Route path='/about' element={<About />} />
         <Route path='/' element={<Home />} />
+        <Route path='/resume' element={<ChronoResume />} />
       </Routes>
     </main>
 

@@ -12,6 +12,7 @@ function Navbar() {
         <div className='flex-none'>
             <div className='menu menu-horizontal p-0'>
                 <a href='/' className='btn btn-ghost text-xl'>Home</a>
+                <Link to='/resume' className='btn btn-ghost text-xl pl-2'>Resume</Link>
                 <Link to='/about' className='btn btn-ghost text-xl pl-2'>About</Link>
             </div>
         </div>
