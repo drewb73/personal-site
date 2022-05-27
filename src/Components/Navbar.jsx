@@ -7,13 +7,13 @@ function Navbar() {
     <div className='navbar bg-base-300 shadow-lg '>
         <div className='flex-1'>
             <p className='mr-3 ml-4 text-3xl'><FaLaptopCode /></p>
-            <a href='/' className='normal-case text-xl font-bold'>Drew Barton</a>
+            <a href='/' className='normal-case text-xl font-bold sm:text-md md:text-md'>Drew Barton</a>
         </div>
         <div className='flex-none'>
             <div className='menu menu-horizontal p-0'>
-                <a href='/' className='btn btn-ghost text-xl'>Home</a>
-                <Link to='/resume' className='btn btn-ghost text-xl pl-2'>Resume</Link>
-                <Link to='/about' className='btn btn-ghost text-xl pl-2'>About</Link>
+                <a href='/' className='btn btn-ghost text-lg'>Home</a>
+                <Link to='/resume' className='btn btn-ghost text-lg pl-2'>Resume</Link>
+                <Link to='/about' className='btn btn-ghost text-lg pl-2'>About</Link>
             </div>
         </div>
 
