@@ -45,7 +45,7 @@ function CardCarousel() {
               <div className='card w-96 bg-sky-200 shadow-xl'>
                   <figure><img src='/MERNapp.PNG' alt='me'></img></figure>
                   <div className='card-body items-center text-center'>
-                      <h2 className='card-title'>Support Desk App</h2>
+                      <h2 className='card-title'>SFull Stack Blog App</h2>
                       <p>In progress MERN stack App, stay tuned!</p>
                       <div className='card-actions justify-end'>
                           <a href='https://github.com/drewb73/blog' className='btn btn-primary'>Project Here!</a>
