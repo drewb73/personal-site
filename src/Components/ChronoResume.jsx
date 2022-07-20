@@ -33,7 +33,7 @@ function ChronoResume() {
     <>
     <div className='w-90 h-90 text-center'>
       <h1 className='mb-10 mt-8 text-4xl font-bold'>Resume</h1>
-      <Chrono items={items} mode="VERTICAL_ALTERNATING" cardHeight="100px" hideControls='true'>
+      <Chrono items={items} mode="VERTICAL_ALTERNATING" cardHeight="100px" hideControls='true' theme={{primary: 'black'}}>
       </Chrono>
     </div>
     </>
