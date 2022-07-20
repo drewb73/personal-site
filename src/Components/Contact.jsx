@@ -28,7 +28,7 @@ function Contact() {
          <br></br>
          <textarea placeholder='Message' value={message} name='message' onChange={onChange} required className='textarea textarea-bordered mt-3 w-96 justify-center' ></textarea>
          <br></br>
-         <a href={`mailto:${data.email}?Subject=${subject}&body=${message}`}><button className='btn btn-primary' type='button'>Send Email</button></a>
+         <a href={`mailto:${data.email}?Subject=${subject}&body=${message}`}><button className='btn bg-gray-500' type='button'>Send Email</button></a>
         </form>
     </div>
   )
